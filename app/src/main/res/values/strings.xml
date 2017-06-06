@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyControler</string>
+    <string name="temperature">Temperature</string>
+    <string name="diaper_state">Diaper state</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_main2">MyControler</string>
+</resources>
